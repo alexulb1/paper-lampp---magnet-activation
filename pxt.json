@@ -1,0 +1,28 @@
+{
+    "name": "Paper lampp - magnet activation",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v3": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "master",
+        "tag": "v8.1.11",
+        "commits": "https://github.com/microsoft/pxt-calliope/commits/41d6b631a7a67619a6119b755d3db06cab4d72f8",
+        "target": "8.1.11",
+        "pxt": "12.2.8",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
